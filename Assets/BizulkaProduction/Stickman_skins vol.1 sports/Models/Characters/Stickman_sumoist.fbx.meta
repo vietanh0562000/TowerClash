@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 0481e46918d51324c86c67c48f47a29a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Head
+    100002: index_01_l
+    100004: index_01_r
+    100006: index_02_l
+    100008: index_02_r
+    100010: Left_Arm
+    100012: Left_Clavicle
+    100014: Left_Elbow
+    100016: Left_Foot
+    100018: Left_Hand
+    100020: Left_Hips
+    100022: Left_Knee
+    100024: Middle_Spine
+    100026: Neck_01
+    100028: Pelvis
+    100030: Right_clavicle
+    100032: Right_Elbow
+    100034: Right_Foot
+    100036: Right_Hand
+    100038: Right_Hips
+    100040: Right_Knee
+    100042: Right_upperarm
+    100044: Spine_01
+    100046: Spine_03
+    100048: Stickman_01.c
+    100050: //RootNode
+    100052: Sumoist
+    100054: Sumoist_costume
+    100056: thumb_01_l
+    100058: thumb_01_r
+    100060: thumb_02_l
+    100062: thumb_02_r
+    400000: Head
+    400002: index_01_l
+    400004: index_01_r
+    400006: index_02_l
+    400008: index_02_r
+    400010: Left_Arm
+    400012: Left_Clavicle
+    400014: Left_Elbow
+    400016: Left_Foot
+    400018: Left_Hand
+    400020: Left_Hips
+    400022: Left_Knee
+    400024: Middle_Spine
+    400026: Neck_01
+    400028: Pelvis
+    400030: Right_clavicle
+    400032: Right_Elbow
+    400034: Right_Foot
+    400036: Right_Hand
+    400038: Right_Hips
+    400040: Right_Knee
+    400042: Right_upperarm
+    400044: Spine_01
+    400046: Spine_03
+    400048: Stickman_01.c
+    400050: //RootNode
+    400052: Sumoist
+    400054: Sumoist_costume
+    400056: thumb_01_l
+    400058: thumb_01_r
+    400060: thumb_02_l
+    400062: thumb_02_r
+    2100000: Material.004
+    2100002: Material.003
+    2100004: Material.001
+    2100006: Material.002
+    4300000: Sumoist
+    4300002: Sumoist_costume
+    9500000: //RootNode
+    13700000: Sumoist
+    13700002: Sumoist_costume
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

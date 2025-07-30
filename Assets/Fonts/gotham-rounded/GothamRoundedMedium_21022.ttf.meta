@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: e9c2bf08127c74197a8a0584dadf41a1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gotham Rounded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 334f67d0ef0934677b49e3e6815ac7a2, type: 3}
+  - {fileID: 12800000, guid: 632f2767a92fe44d8b58b6505d2699ad, type: 3}
+  - {fileID: 12800000, guid: 9079e3a8de1914f19857e4e01c7d929a, type: 3}
+  - {fileID: 12800000, guid: 08f2d9a92ef334718b3c02661094ac4b, type: 3}
+  - {fileID: 12800000, guid: d5ef7edbe04b749ec93774cc47dab026, type: 3}
+  - {fileID: 12800000, guid: 659093ecb21004b5e986903682ba38c0, type: 3}
+  - {fileID: 12800000, guid: 8846c91d5d48543ccba32110ea0e13d6, type: 3}
+  - {fileID: 12800000, guid: 03efef0e8912547208d5284c3a8dbdac, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

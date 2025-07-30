@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 498de2edf2270c24792fcd3e7b1a470d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Ballerina_Feather
+    100002: Ballerina_pack
+    100004: Ballerina_Pointe_shoes
+    100006: Head
+    100008: index_01_l
+    100010: index_01_r
+    100012: index_02_l
+    100014: index_02_r
+    100016: Left_Arm
+    100018: Left_Clavicle
+    100020: Left_Elbow
+    100022: Left_Foot
+    100024: Left_Hand
+    100026: Left_Hips
+    100028: Left_Knee
+    100030: Middle_Spine
+    100032: Neck_01
+    100034: Pelvis
+    100036: Right_clavicle
+    100038: Right_Elbow
+    100040: Right_Foot
+    100042: Right_Hand
+    100044: Right_Hips
+    100046: Right_Knee
+    100048: Right_upperarm
+    100050: Spine_01
+    100052: Spine_03
+    100054: Stickman_01.c
+    100056: Stickman_04.001
+    100058: //RootNode
+    100060: thumb_01_l
+    100062: thumb_01_r
+    100064: thumb_02_l
+    100066: thumb_02_r
+    400000: Ballerina_Feather
+    400002: Ballerina_pack
+    400004: Ballerina_Pointe_shoes
+    400006: Head
+    400008: index_01_l
+    400010: index_01_r
+    400012: index_02_l
+    400014: index_02_r
+    400016: Left_Arm
+    400018: Left_Clavicle
+    400020: Left_Elbow
+    400022: Left_Foot
+    400024: Left_Hand
+    400026: Left_Hips
+    400028: Left_Knee
+    400030: Middle_Spine
+    400032: Neck_01
+    400034: Pelvis
+    400036: Right_clavicle
+    400038: Right_Elbow
+    400040: Right_Foot
+    400042: Right_Hand
+    400044: Right_Hips
+    400046: Right_Knee
+    400048: Right_upperarm
+    400050: Spine_01
+    400052: Spine_03
+    400054: Stickman_01.c
+    400056: Stickman_04.001
+    400058: //RootNode
+    400060: thumb_01_l
+    400062: thumb_01_r
+    400064: thumb_02_l
+    400066: thumb_02_r
+    2100000: Material.002
+    2100002: Material.004
+    2100004: Material.005
+    4300000: Ballerina_Feather
+    4300002: Ballerina_Pointe_shoes
+    4300004: Ballerina_pack
+    4300006: Stickman_04.001
+    9500000: //RootNode
+    13700000: Ballerina_Feather
+    13700002: Ballerina_pack
+    13700004: Ballerina_Pointe_shoes
+    13700006: Stickman_04.001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
