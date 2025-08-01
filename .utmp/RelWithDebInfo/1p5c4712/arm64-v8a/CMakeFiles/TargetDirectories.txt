@@ -1,0 +1,5 @@
+/Users/simmon00/GameJob/TownBuilding/.utmp/RelWithDebInfo/1p5c4712/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/simmon00/GameJob/TownBuilding/.utmp/RelWithDebInfo/1p5c4712/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/simmon00/GameJob/TownBuilding/.utmp/RelWithDebInfo/1p5c4712/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/simmon00/GameJob/TownBuilding/.utmp/RelWithDebInfo/1p5c4712/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/simmon00/GameJob/TownBuilding/.utmp/RelWithDebInfo/1p5c4712/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

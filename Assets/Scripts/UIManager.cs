@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using TMPro;
+using UnityEngine;
 using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour
@@ -10,7 +11,6 @@ public class UIManager : MonoBehaviour
     public GameObject menu;
     public GameObject gameplay;
     public Text lvCompleteReward;
-    public Text menuCoinsText;
     public Text lvNumber;
     public GameObject background;
 
@@ -37,7 +37,6 @@ public class UIManager : MonoBehaviour
 
         contentBar.fillAmount = fillAmountBar;
 
-        menuCoinsText.text = "" + GameManager.Instance.coins;
         lvNumber.text = "LEVEL " + GameManager.Instance.levelNumber;
     }
 }
