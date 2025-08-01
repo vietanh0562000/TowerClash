@@ -848,6 +848,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShopItem (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5342206312234518637, guid: fec90b76fb9f64bd781a1f3aa8125e0e, type: 3}
+      propertyPath: m_text
+      value: 1000
+      objectReference: {fileID: 0}
     - target: {fileID: 7493602505635600028, guid: fec90b76fb9f64bd781a1f3aa8125e0e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -1437,6 +1441,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShopItem (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5342206312234518637, guid: fec90b76fb9f64bd781a1f3aa8125e0e, type: 3}
+      propertyPath: m_text
+      value: 200
+      objectReference: {fileID: 0}
     - target: {fileID: 7493602505635600028, guid: fec90b76fb9f64bd781a1f3aa8125e0e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -1598,6 +1606,10 @@ PrefabInstance:
     - target: {fileID: 5307505784764204182, guid: fec90b76fb9f64bd781a1f3aa8125e0e, type: 3}
       propertyPath: m_Name
       value: ShopItem (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5342206312234518637, guid: fec90b76fb9f64bd781a1f3aa8125e0e, type: 3}
+      propertyPath: m_text
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 7493602505635600028, guid: fec90b76fb9f64bd781a1f3aa8125e0e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
